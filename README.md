@@ -5,7 +5,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no intuito de apresentar meu projeto e dominio das linguagens, baseado no mecanismo de pesquisa mais usado, com fins educativos..
+Projeto feito no intuito de apresentar o dominio das linguagens, baseado no mecanismo de pesquisa mais usado, para fins educativos..
 
 ## 🤯 Oprojeto é composto por:
  
