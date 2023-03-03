@@ -10,7 +10,6 @@ Projeto feito no intuito de apresentar meu projeto e dominio das linguagens, bas
 ## 🤯 Oprojeto é composto por:
  
  ## *linguagem em HTML*
- ## *Java Script*
  ## *Css*
 
 ---
